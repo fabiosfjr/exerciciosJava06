@@ -1,6 +1,6 @@
 package exerciciosJavaGeneration6;
 
-public class Preguiça {
+public class PreguiÃ§a extends {
 	
 	private String subirEmArvores;
 
